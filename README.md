@@ -7,7 +7,7 @@
 ![Docker Stars](https://img.shields.io/docker/stars/h3xx1st/soulmask)
 ![Image Size](https://img.shields.io/docker/image-size/h3xx1st/soulmask/latest)
 
-Soulmask dedicated server with docker
+Soulmask dedicated server with docker, this fork was created to fix a server naming issue with the original.
 
 ## Environments
 
